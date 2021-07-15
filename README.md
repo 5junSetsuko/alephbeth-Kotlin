@@ -2,4 +2,4 @@
 
 ## Sorry, this repo was thrown away!
 
-Go to https://github.com/5junSetsuko/alephbeth_Android, instead.
+Check https://github.com/5junSetsuko/alephbeth_Android, instead.
